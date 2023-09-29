@@ -1,3 +1,3 @@
 # Shopping List - em desenvolvimento
 
-App em desenvolvimento
+App react native em desenvolvimento
